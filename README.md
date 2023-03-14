@@ -1,3 +1,3 @@
 # EduBridge-Capston-Project
-# EBEON1022682747	
-# KISHORE A
+# Reg No: EBEON1022682747	
+# Name: KISHORE A
